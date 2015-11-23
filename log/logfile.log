@@ -1,0 +1,300 @@
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T13:59:39.238Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T13:59:39.267Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:16:34.867Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:16:34.871Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:16:34.872Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:16:34.872Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:16:34.895Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:16:35.054Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist.js","timestamp":"2015-11-23T14:16:35.055Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:16:35.055Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/index.js","timestamp":"2015-11-23T14:16:35.056Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song.js","timestamp":"2015-11-23T14:16:35.056Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:16:35.056Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/enums/","timestamp":"2015-11-23T14:16:35.056Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/enums/countries.js","timestamp":"2015-11-23T14:16:35.056Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/enums/index.js","timestamp":"2015-11-23T14:16:35.057Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:17:40.531Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:17:40.536Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:17:40.536Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:17:40.536Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:17:40.560Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:17:40.660Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:17:40.661Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:17:40.662Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:18:00.663Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:18:00.667Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:18:00.668Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:18:00.668Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:18:00.691Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:18:00.786Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:18:00.787Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:18:00.787Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:19:17.509Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:19:17.514Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:19:17.514Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:19:17.514Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:19:17.539Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:19:17.695Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:19:17.695Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:19:17.696Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:21:28.117Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:21:28.122Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:21:28.123Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:21:28.123Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:21:28.151Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:21:28.348Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:21:28.349Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:21:28.349Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:21:56.890Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:21:56.895Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:21:56.896Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:21:56.896Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:21:56.924Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:21:57.034Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:21:57.035Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:21:57.036Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:22:25.868Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:22:25.873Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:22:25.873Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:22:25.873Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:22:25.902Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:22:26.020Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:22:26.021Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:22:26.022Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:22:57.240Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:22:57.248Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:22:57.248Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:22:57.249Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:22:57.287Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:22:57.399Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:22:57.400Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:22:57.401Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:23:26.490Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:23:26.495Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:23:26.496Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:23:26.496Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:23:26.524Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:23:26.665Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:23:26.666Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:23:26.666Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:23:54.847Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:23:54.852Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:23:54.852Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:23:54.852Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:23:54.881Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:23:54.987Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:23:54.988Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:23:54.989Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:24:24.464Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:24:24.469Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:24:24.470Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:24:24.470Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:24:24.498Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:24:24.595Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:24:24.596Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:24:24.596Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:24:53.605Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:24:53.611Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:24:53.611Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:24:53.612Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:24:53.641Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:24:53.755Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:24:53.756Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:24:53.756Z"}
+{"level":"info","message":"execute [object Object] in { name: 'cancion 1', _id: 565321c1f9e188352193d76c }","timestamp":"2015-11-23T14:25:06.000Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:25:25.316Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:25:25.320Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:25:25.321Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:25:25.321Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:25:25.350Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:25:25.538Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:25:25.539Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:25:25.540Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:25:35.929Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:25:35.934Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:25:35.935Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:25:35.935Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:25:35.966Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:25:36.091Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:25:36.093Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:25:36.093Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:26:03.813Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:26:03.818Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:26:03.819Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:26:03.819Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:26:03.848Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:26:03.924Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:26:03.925Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:26:03.957Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:26:33.591Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:26:33.597Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:26:33.598Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:26:33.598Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:26:33.632Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:26:33.742Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:26:33.743Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:26:33.744Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:27:03.239Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:27:03.245Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:27:03.246Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:27:03.246Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:27:03.275Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:27:03.424Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:27:03.425Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:27:03.425Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:27:39.721Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:27:39.726Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:27:39.727Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:27:39.727Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:27:39.755Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:27:39.877Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:27:39.878Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:27:39.879Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T14:28:21.115Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T14:28:21.121Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T14:28:21.122Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T14:28:21.122Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T14:28:21.167Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T14:28:21.415Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T14:28:21.416Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T14:28:21.416Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:03:44.872Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:03:44.876Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:03:44.877Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:03:44.877Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:03:45.065Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:03:45.271Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:03:45.272Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:03:45.272Z"}
+{"level":"info","message":"execute [object Object] in { name: 'cancion 1', _id: 56532ad9dbf72a9912201636 }","timestamp":"2015-11-23T15:03:53.441Z"}
+{"level":"info","message":"execute [object Object] in { name: 'cancion 1', _id: 56532b1bdbf72a9912201637 }","timestamp":"2015-11-23T15:04:59.593Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:05:04.772Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:05:04.778Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:05:04.779Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:05:04.779Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:05:04.814Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:05:04.918Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:05:04.919Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:05:04.919Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:35:53.820Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:35:53.824Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:35:53.825Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:35:53.825Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:35:53.852Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:35:54.023Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:35:54.024Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:35:54.025Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:38:17.453Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:38:17.460Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:38:17.461Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:38:17.462Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:38:17.499Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:38:17.662Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:38:17.663Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:38:17.664Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:38:47.068Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:38:47.074Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:38:47.075Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:38:47.075Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:38:47.105Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:38:47.216Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:38:47.217Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:38:47.217Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:39:15.774Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:39:15.778Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:39:15.779Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:39:15.779Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:39:15.806Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:39:20.898Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:39:20.898Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:39:20.899Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:39:43.874Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:39:43.879Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:39:43.880Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:39:43.880Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:39:43.908Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:39:44.003Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:39:44.004Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:39:44.004Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:40:11.564Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:40:11.569Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:40:11.569Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:40:11.570Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:40:11.598Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:40:11.788Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:40:11.789Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:40:11.789Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:40:39.007Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:40:39.013Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:40:39.014Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:40:39.014Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:40:39.044Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:40:39.143Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:40:39.144Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:40:39.144Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:41:06.372Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:41:06.376Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:41:06.377Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:41:06.377Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:41:06.406Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:41:06.508Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:41:06.509Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:41:06.509Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:41:34.114Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:41:34.119Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:41:34.120Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:41:34.120Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:41:34.148Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:41:34.250Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:41:34.251Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:41:34.252Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:42:01.705Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:42:01.710Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:42:01.710Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:42:01.710Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:42:01.738Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:42:01.891Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:42:01.891Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:42:01.892Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T15:42:29.327Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T15:42:29.332Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T15:42:29.333Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T15:42:29.333Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T15:42:29.360Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T15:42:29.461Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T15:42:29.462Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T15:42:29.463Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T16:15:50.441Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T16:15:50.444Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T16:15:50.445Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T16:15:50.445Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T16:15:50.469Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T16:15:50.646Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T16:15:50.647Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T16:15:50.648Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { name: 'cancion 1', _id: 56533bbb963b77ed30655142 }","timestamp":"2015-11-23T16:15:55.898Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T16:16:35.820Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T16:16:35.826Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T16:16:35.827Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T16:16:35.827Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T16:16:35.856Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T16:16:35.961Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T16:16:35.961Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T16:16:35.992Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T16:17:06.481Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T16:17:06.487Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T16:17:06.488Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T16:17:06.488Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T16:17:06.517Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T16:17:06.631Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T16:17:06.632Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T16:17:06.632Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-23T16:17:37.533Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-23T16:17:37.537Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-23T16:17:37.537Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-23T16:17:37.538Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-23T16:17:37.561Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-23T16:17:37.712Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-23T16:17:37.713Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-23T16:17:37.713Z"}

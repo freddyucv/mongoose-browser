@@ -1,0 +1,29 @@
+{
+  "node": true,
+  "browser": true,
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "noarg": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "newcap": false,
+  "esnext": true,
+  "esversion": 6,
+  "globals": {
+    "wrap": true,
+    "unwrap": true,
+    "Polymer": true,
+    "Platform": true,
+    "page": true,
+    "app": true,
+    "Firebase": true,
+    "Promise": true,
+    "moment": true
+  }
+}

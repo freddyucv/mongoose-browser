@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Test</title>
+  <link rel="stylesheet" media="all" href="node_modules/mocha/mocha.css">
+</head>
+<body>
+
+  <div id="mocha"><p><a href=".">Index</a></p></div>
+  <div id="messages"></div>
+  <div id="fixtures"></div>
+
+  <!-- Mocha and chai scripts-->
+  <script src="node_modules/mocha/mocha.js"></script>
+  <!-- Change by node_modules-->
+  <script src="https://rawgit.com/chaijs/chai/master/chai.js"></script>
+
+  <!-- Other js -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+  <!--js file to test -->
+  <!--<script type="text/javascript" src="js-client/bundle.js"></script>-->
+  <script src="models-client.js"></script>
+  <script src="js-client/commands.js"></script>
+  <script src="js-client/models-builder.js"></script>
+
+  <script>mocha.setup('bdd')</script>
+
+  <!-- Test file -->
+  <script src="save/saving_simple_object.js"></script>
+
+  <script>mocha.run();</script>
+</body>
+</html>
