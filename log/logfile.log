@@ -2704,3 +2704,266 @@
 {"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:09:07.757Z"}
 {"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a88733d83300f22bdcea8 }","timestamp":"2015-11-29T05:09:07.771Z"}
 {"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:09:07.774Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:17:12.594Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:17:12.598Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:17:12.598Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:17:12.598Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:17:12.622Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:17:12.831Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:17:12.832Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:17:12.832Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8a5eeb6406ab223b5e3d }","timestamp":"2015-11-29T05:17:18.930Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8a5feb6406ab223b5e3e }","timestamp":"2015-11-29T05:17:19.237Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8a5feb6406ab223b5e3f }","timestamp":"2015-11-29T05:17:19.357Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8a5feb6406ab223b5e40 }","timestamp":"2015-11-29T05:17:19.453Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:17:19.458Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8a5feb6406ab223b5e41 }","timestamp":"2015-11-29T05:17:19.476Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:19.478Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8a69eb6406ab223b5e42 }","timestamp":"2015-11-29T05:17:29.487Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.488Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8a69eb6406ab223b5e43 }","timestamp":"2015-11-29T05:17:29.507Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.509Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8a69eb6406ab223b5e44 }","timestamp":"2015-11-29T05:17:29.523Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.525Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8a69eb6406ab223b5e45 }","timestamp":"2015-11-29T05:17:29.540Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.541Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8a69eb6406ab223b5e46 }","timestamp":"2015-11-29T05:17:29.562Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.565Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8a69eb6406ab223b5e47 }","timestamp":"2015-11-29T05:17:29.585Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.589Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8a69eb6406ab223b5e48 }","timestamp":"2015-11-29T05:17:29.607Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:17:29.609Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:19:03.664Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:19:03.670Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:19:03.671Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:19:03.671Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:19:03.705Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:19:03.928Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:19:03.929Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:19:03.930Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8acc8ef335f922e19cc9 }","timestamp":"2015-11-29T05:19:08.837Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8ad28ef335f922e19cca }","timestamp":"2015-11-29T05:19:14.989Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8ad38ef335f922e19ccb }","timestamp":"2015-11-29T05:19:15.540Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8ad38ef335f922e19ccc }","timestamp":"2015-11-29T05:19:15.638Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:19:15.643Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8add8ef335f922e19ccd }","timestamp":"2015-11-29T05:19:25.650Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:25.654Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8ae78ef335f922e19cce }","timestamp":"2015-11-29T05:19:35.655Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.657Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8ae78ef335f922e19ccf }","timestamp":"2015-11-29T05:19:35.675Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.677Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8ae78ef335f922e19cd0 }","timestamp":"2015-11-29T05:19:35.692Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.694Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8ae78ef335f922e19cd1 }","timestamp":"2015-11-29T05:19:35.707Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.712Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8ae78ef335f922e19cd2 }","timestamp":"2015-11-29T05:19:35.731Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.734Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8ae78ef335f922e19cd3 }","timestamp":"2015-11-29T05:19:35.755Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.761Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8ae78ef335f922e19cd4 }","timestamp":"2015-11-29T05:19:35.779Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:19:35.781Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:19:51.469Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:19:51.474Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:19:51.475Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:19:51.475Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:19:51.499Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:19:51.607Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:19:51.608Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:19:51.609Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:19:55.506Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:19:55.510Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:19:55.511Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:19:55.511Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:19:55.534Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:19:55.607Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:19:55.608Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:19:55.609Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8afe2452085123094502 }","timestamp":"2015-11-29T05:19:58.290Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8b022452085123094503 }","timestamp":"2015-11-29T05:20:02.011Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8b022452085123094504 }","timestamp":"2015-11-29T05:20:02.351Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8b022452085123094505 }","timestamp":"2015-11-29T05:20:02.443Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:20:02.450Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8b022452085123094506 }","timestamp":"2015-11-29T05:20:02.465Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:02.467Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8b0c2452085123094507 }","timestamp":"2015-11-29T05:20:12.477Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.479Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8b0c2452085123094508 }","timestamp":"2015-11-29T05:20:12.497Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.500Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8b0c2452085123094509 }","timestamp":"2015-11-29T05:20:12.517Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.519Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8b0c245208512309450a }","timestamp":"2015-11-29T05:20:12.534Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.536Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8b0c245208512309450b }","timestamp":"2015-11-29T05:20:12.551Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.552Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8b0c245208512309450c }","timestamp":"2015-11-29T05:20:12.567Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.572Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8b0c245208512309450d }","timestamp":"2015-11-29T05:20:12.588Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:20:12.590Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:21:15.082Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:21:15.087Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:21:15.087Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:21:15.087Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:21:15.111Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:21:15.250Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:21:15.251Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:21:15.251Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:21:20.412Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:21:20.416Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:21:20.416Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:21:20.416Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:21:20.447Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:21:20.540Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:21:20.541Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:21:20.542Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8b5426a5d2ab23aac720 }","timestamp":"2015-11-29T05:21:24.756Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8b5e26a5d2ab23aac721 }","timestamp":"2015-11-29T05:21:34.724Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8b6226a5d2ab23aac722 }","timestamp":"2015-11-29T05:21:38.945Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8b6526a5d2ab23aac723 }","timestamp":"2015-11-29T05:21:41.101Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8b6526a5d2ab23aac724 }","timestamp":"2015-11-29T05:21:41.199Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8b6526a5d2ab23aac725 }","timestamp":"2015-11-29T05:21:41.354Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:21:41.360Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8b6526a5d2ab23aac726 }","timestamp":"2015-11-29T05:21:41.377Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:41.382Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8b6f26a5d2ab23aac727 }","timestamp":"2015-11-29T05:21:51.385Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.387Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8b6f26a5d2ab23aac728 }","timestamp":"2015-11-29T05:21:51.405Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.409Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8b6f26a5d2ab23aac729 }","timestamp":"2015-11-29T05:21:51.425Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.428Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8b6f26a5d2ab23aac72a }","timestamp":"2015-11-29T05:21:51.444Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.446Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8b6f26a5d2ab23aac72b }","timestamp":"2015-11-29T05:21:51.460Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.461Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8b6f26a5d2ab23aac72c }","timestamp":"2015-11-29T05:21:51.473Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.476Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8b6f26a5d2ab23aac72d }","timestamp":"2015-11-29T05:21:51.489Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:21:51.491Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:22:53.789Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:22:53.793Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:22:53.794Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:22:53.794Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:22:53.817Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:22:54.014Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:22:54.015Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:22:54.015Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:23:11.381Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:23:11.386Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:23:11.387Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:23:11.387Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:23:11.411Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:23:11.534Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:23:11.535Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:23:11.535Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:23:15.691Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:23:15.696Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:23:15.696Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:23:15.696Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:23:15.740Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:23:15.810Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:23:15.810Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:23:15.811Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8bc8ff2ece0924851275 }","timestamp":"2015-11-29T05:23:20.604Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8bcaff2ece0924851276 }","timestamp":"2015-11-29T05:23:22.048Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8bcaff2ece0924851277 }","timestamp":"2015-11-29T05:23:22.155Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8bcaff2ece0924851278 }","timestamp":"2015-11-29T05:23:22.255Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:23:22.259Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8bcaff2ece0924851279 }","timestamp":"2015-11-29T05:23:22.274Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:22.277Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8bd4ff2ece092485127a }","timestamp":"2015-11-29T05:23:32.286Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.288Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8bd4ff2ece092485127b }","timestamp":"2015-11-29T05:23:32.304Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.305Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8bd4ff2ece092485127c }","timestamp":"2015-11-29T05:23:32.316Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.318Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8bd4ff2ece092485127d }","timestamp":"2015-11-29T05:23:32.331Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.333Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8bd4ff2ece092485127e }","timestamp":"2015-11-29T05:23:32.349Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.351Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8bd4ff2ece092485127f }","timestamp":"2015-11-29T05:23:32.369Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.374Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8bd4ff2ece0924851280 }","timestamp":"2015-11-29T05:23:32.389Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:23:32.391Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:23:56.370Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:23:56.374Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:23:56.374Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:23:56.374Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:23:56.398Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:23:56.538Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:23:56.539Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:23:56.539Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:24:09.326Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:24:09.330Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:24:09.331Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:24:09.331Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:24:09.355Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:24:09.453Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:24:09.454Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:24:09.455Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:24:14.155Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:24:14.159Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:24:14.159Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:24:14.159Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:24:14.183Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:24:14.244Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:24:14.245Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:24:14.246Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8c025c8ed37324bc023b }","timestamp":"2015-11-29T05:24:18.749Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8c025c8ed37324bc023c }","timestamp":"2015-11-29T05:24:18.892Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8c025c8ed37324bc023d }","timestamp":"2015-11-29T05:24:18.995Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8c045c8ed37324bc023e }","timestamp":"2015-11-29T05:24:20.203Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:24:20.208Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8c045c8ed37324bc023f }","timestamp":"2015-11-29T05:24:20.226Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:20.229Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8c0e5c8ed37324bc0240 }","timestamp":"2015-11-29T05:24:30.240Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.243Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8c0e5c8ed37324bc0241 }","timestamp":"2015-11-29T05:24:30.258Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.260Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8c0e5c8ed37324bc0242 }","timestamp":"2015-11-29T05:24:30.272Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.278Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8c0e5c8ed37324bc0243 }","timestamp":"2015-11-29T05:24:30.301Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.303Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8c0e5c8ed37324bc0244 }","timestamp":"2015-11-29T05:24:30.318Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.320Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8c0e5c8ed37324bc0245 }","timestamp":"2015-11-29T05:24:30.336Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.341Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8c0e5c8ed37324bc0246 }","timestamp":"2015-11-29T05:24:30.357Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:24:30.359Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:25:31.285Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:25:31.289Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:25:31.290Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:25:31.290Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:25:31.313Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:25:37.417Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:25:37.422Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:25:37.422Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:25:37.422Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:25:37.448Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-11-29T05:25:41.175Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-11-29T05:25:41.181Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-11-29T05:25:41.182Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-11-29T05:25:41.182Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-11-29T05:25:41.216Z"}
+{"level":"info","message":"database models created","timestamp":"2015-11-29T05:25:46.356Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-11-29T05:25:46.357Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-11-29T05:25:46.357Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 565a8c5f3136a31125045d4e }","timestamp":"2015-11-29T05:25:51.929Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 565a8c613136a31125045d4f }","timestamp":"2015-11-29T05:25:53.959Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8c623136a31125045d50 }","timestamp":"2015-11-29T05:25:54.061Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 565a8c623136a31125045d51 }","timestamp":"2015-11-29T05:25:54.162Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-11-29T05:25:54.167Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8c623136a31125045d52 }","timestamp":"2015-11-29T05:25:54.183Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:25:54.186Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 565a8c6c3136a31125045d53 }","timestamp":"2015-11-29T05:26:04.197Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.201Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 565a8c6c3136a31125045d54 }","timestamp":"2015-11-29T05:26:04.214Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.217Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 565a8c6c3136a31125045d55 }","timestamp":"2015-11-29T05:26:04.229Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.231Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 565a8c6c3136a31125045d56 }","timestamp":"2015-11-29T05:26:04.248Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.251Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 565a8c6c3136a31125045d57 }","timestamp":"2015-11-29T05:26:04.266Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.270Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8c6c3136a31125045d58 }","timestamp":"2015-11-29T05:26:04.289Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.296Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 565a8c6c3136a31125045d59 }","timestamp":"2015-11-29T05:26:04.317Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-11-29T05:26:04.320Z"}

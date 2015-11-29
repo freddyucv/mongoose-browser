@@ -70,7 +70,7 @@
               resolve(data);
             }).
             fail(function(err){
-              reject(err.responseJSON.errors);
+              reject(err.responseJSON);
             });
         });
       }

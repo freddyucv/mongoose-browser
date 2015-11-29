@@ -57,7 +57,7 @@ describe('Saving a simple object: ', function() {
 
       },
       function(e){
-        var errorMessage = e.genre.message;
+        var errorMessage = e.errors.genre.message;
         assert.equal( '`not valid` is not a valid enum value for path `genre`.',
           errorMessage);
         done();
