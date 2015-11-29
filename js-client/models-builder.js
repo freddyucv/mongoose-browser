@@ -69,7 +69,9 @@
               console.log(`saved id: ${_.id}`);
               resolve(data);
             }).
-            fail(reject);
+            fail(function(err){
+              reject(err.responseJSON.errors);
+            });
         });
       }
 

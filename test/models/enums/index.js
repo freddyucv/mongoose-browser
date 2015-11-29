@@ -4,10 +4,16 @@
 //TODO: Cargar con plugin de gulp
 //delete enums['index'];
 var toExports = {};
+
 toExports.COUNTRIES = {
-  values: require('./countries.js'),
+  values: require('./countries'),
   message: 'Valor no valido'
-}
+};
+
+toExports.GENRES = {
+  values: require('./genres'),
+  message: 'Valor no valido'
+};
 
 /*var toExports = {};
 

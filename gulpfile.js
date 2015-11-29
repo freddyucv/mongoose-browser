@@ -1,30 +1,29 @@
 var gulp = require('gulp');
 var nodemon = require('gulp-nodemon');
-var watch = require('gulp-watch');
+//var watch = require('gulp-watch');
 var babel = require('gulp-babel');
 
-var client_file = 'js-client/*.js';
-var server_file = 'lib/*.js';
-var test_file = 'test/**/*';
+var clientFile = 'js-client/*.js';
+var serverFile = 'lib/*.js';
+var testFile = 'test/**/*';
 
 gulp.task('dist', function() {
-  gulp.src( client_file ).pipe(gulp.dest( 'dist/js-client' ));
+  gulp.src( clientFile ).pipe(gulp.dest( 'dist/js-client' ));
 
-  gulp.src( server_file )
+  gulp.src( serverFile )
     .pipe(babel())
     .pipe(gulp.dest( 'dist/lib' ));
 });
 
 gulp.task('test-dist', function() {
-  gulp.src( test_file ).pipe(gulp.dest( 'dist' ));
+  gulp.src( testFile ).pipe(gulp.dest( 'dist' ));
 });
 
 
-gulp.task('test', [], function() {
+gulp.task('test', ['dist', 'test-dist'], function() {
   nodemon( {
     script: 'dist/server_test.js',
-    ignore: ['dist/models.js', 'dist/models-client.js'],
-    tasks: ['dist', 'test-dist']
+    ignore: ['dist/models.js', 'dist/models-client.js']
   });
 });
 
