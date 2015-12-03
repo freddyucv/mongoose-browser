@@ -20,14 +20,12 @@ var artistSchema = new Schema({
     phone: { type: String,
       validate: {
         validator: function(v) {
-          console.log('V', v);
-          console.log('/d{3}-d{3}-d{4}/.test(v);', /d{3}-d{3}-d{4}/.test(v));
-          return /d{3}-d{3}-d{4}/.test(v);
+          return /\d{3}-\d{3}-\d{4}/.test(v);
         },
         message: '{VALUE} is not a valid phone number!'
       }
-    }                                  /*,
-    songs       : [ { type: Schema.ObjectId, ref: 'Song' } ]*/
+    },
+    songs       : [ { type: Schema.ObjectId, ref: 'Song' } ]
 });
 
 artistSchema.virtual('withAge').get(function () {
