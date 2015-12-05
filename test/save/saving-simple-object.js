@@ -1,7 +1,7 @@
 /*globals it, describe, Song, chai, beforeEach*/
 var assert = chai.assert;
 
-//TODO: Incluir una bsuqueda 
+//TODO: Incluir una bsuqueda
 
 describe('Saving a simple object: ', function() {
     it('Check id', function(done) {
@@ -13,7 +13,11 @@ describe('Saving a simple object: ', function() {
 
       assert.isUndefined(song.id, 'song id has been defined');
 
-      song.save().then(function(){
+      song.save(function(err){
+
+        if (err){
+            return;
+        }
 
         assert.isDefined(song.id, 'song is not has been defined');
         done();
@@ -27,7 +31,12 @@ describe('Saving a simple object: ', function() {
       song.duration = 130;
 
       //TODO: make findOne here to check database value
-      song.save().then(function(){
+      song.save(function(err){
+
+        if (err){
+            return;
+        }
+
         assert.equal( song.name, 'cancion');
         assert.equal( song.duration, '2:10');
         done();
@@ -41,7 +50,12 @@ describe('Saving a simple object: ', function() {
       song.duration = 130;
       song.genre = 'Jazz';
 
-      song.save().then(function(){
+      song.save(function(err){
+
+        if (err){
+            return;
+        }
+
         assert.isDefined(song.id, 'song is not has been defined');
 
         done();
@@ -55,10 +69,7 @@ describe('Saving a simple object: ', function() {
       song.duration = 130;
       song.genre = 'not valid';
 
-      song.save().then(function(){
-
-      },
-      function(e){
+      song.save(function(e){
         var errorMessage = e.errors.genre.message;
         assert.equal( '`not valid` is not a valid enum value for path `genre`.',
           errorMessage);

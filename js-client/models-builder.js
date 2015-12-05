@@ -2,7 +2,7 @@
   function(){
     var models = require('models');
 
-    var get_docIfexists = function (value)  {
+    var getDocIfexists = function (value)  {
       if($.isArray(value)) {
 
         var v = value.map(function(item){
@@ -21,7 +21,7 @@
     '}';
 
     var setterFunction = 'function defaultSetter{0}(value){' +
-      'value = get_docIfexists(value);' +
+      'value = getDocIfexists(value);' +
       'this.doc["{1}"] = value;' +
     '}';
 
@@ -41,16 +41,16 @@
 
       this[className] = function(){
         this.doc = new mongoose.Document({}, models[this.model] );
-      }
+      };
 
       this[className].prototype.model = name;
       this[className].prototype.className = className;
       this[className].prototype.schema = models[name];
 
-      for (property in models[name].paths){
+      for (var property in models[name].paths){
         name = property + className;
-        eval(resolveTemplate(name, property, getterFunction)),
-        eval(resolveTemplate(name, property, setterFunction))
+        eval(resolveTemplate(name, property, getterFunction));
+        eval(resolveTemplate(name, property, setterFunction));
 
         Object.defineProperty(this[className].prototype, property, {
           get: eval(resolveTemplate(name, property, callGetterFunction)),
@@ -59,25 +59,33 @@
       }
 
       //Save Method
-      this[className].prototype.save = function (){
+      this[className].prototype.save = function (cb){
         var _ = this;
         console.log(`saving ${this}`);
-        return new Promise(function(resolve, reject){
-          commands.sendCommand(_, 'save').
-            done(function(data){
-              _.id = data._id;
-              console.log(`saved id: ${_.id}`);
-              resolve(data);
-            }).
-            fail(function(err){
-              reject(err.responseJSON);
-            });
-        });
-      }
+        commands.sendCommand(_, 'save').
+          done(function(data){
+            _.id = data._id;
+            console.log(`saved id: ${_.id}`);
+            cb();
+          }).
+          fail(function(err){
+            cb(err.responseJSON);
+          });
+      };
 
-      /*this[className].prototype.find = function (){
-        commands.sendCommand(this, 'save');
-      }*/
+      //find Method
+
+      this[className].find = function (){
+        commands.sendCommand(_, 'find').
+          done(function(data){
+            _.id = data._id;
+            console.log(`saved id: ${_.id}`);
+            resolve(data);
+          }).
+          fail(function(err){
+            reject(err.responseJSON);
+          });
+      }
 
       //this[className].prototype.findOne =
       //this[className].prototype.findBy =

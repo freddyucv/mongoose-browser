@@ -19,7 +19,11 @@ describe('Saving a complex object: ', function() {
 
       artist.songs.push(song);
 
-      artist.save().then(function(){
+      artist.save(function(err){
+        if (err) {
+          return;
+        }
+
         console.log(artist.songs);
         done();
       });
