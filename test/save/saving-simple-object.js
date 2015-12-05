@@ -13,14 +13,12 @@ describe('Saving a simple object: ', function() {
 
       assert.isUndefined(song.id, 'song id has been defined');
 
-      song.save(function(err){
+      song.save(function(err, song){
 
-        if (err){
-            return;
+        if (!err){
+          assert.isDefined(song.id, 'song is not has been defined');
+          done();
         }
-
-        assert.isDefined(song.id, 'song is not has been defined');
-        done();
       });
     });
 
@@ -31,15 +29,17 @@ describe('Saving a simple object: ', function() {
       song.duration = 130;
 
       //TODO: make findOne here to check database value
-      song.save(function(err){
+      song.save(function(err, songSaved){
 
-        if (err){
-            return;
+        if (!err){
+          assert.equal( 'cancion', song.name);
+          assert.equal( '2:10', song.duration);
+
+          assert.equal( 'cancion', songSaved.name);
+          assert.equal( '130', songSaved.duration);          
+          done();
         }
 
-        assert.equal( song.name, 'cancion');
-        assert.equal( song.duration, '2:10');
-        done();
       });
     });
 
@@ -50,15 +50,13 @@ describe('Saving a simple object: ', function() {
       song.duration = 130;
       song.genre = 'Jazz';
 
-      song.save(function(err){
+      song.save(function(err, song){
 
-        if (err){
-            return;
+        if (!err){
+          assert.isDefined(song.id, 'song is not has been defined');
+          done();
         }
 
-        assert.isDefined(song.id, 'song is not has been defined');
-
-        done();
       });
     });
 
@@ -70,7 +68,7 @@ describe('Saving a simple object: ', function() {
       song.genre = 'not valid';
 
       song.save(function(e){
-        var errorMessage = e.errors.genre.message;
+        var errorMessage = e.responseJSON.errors.genre.message;
         assert.equal( '`not valid` is not a valid enum value for path `genre`.',
           errorMessage);
         done();

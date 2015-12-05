@@ -1,3 +1,4 @@
+/*globals commands*/
 (
   function(){
     var models = require('models');
@@ -60,32 +61,35 @@
 
       //Save Method
       this[className].prototype.save = function (cb){
-        var _ = this;
+
         console.log(`saving ${this}`);
-        commands.sendCommand(_, 'save').
-          done(function(data){
-            _.id = data._id;
-            console.log(`saved id: ${_.id}`);
-            cb();
-          }).
-          fail(function(err){
-            cb(err.responseJSON);
-          });
+        commands.sendCommand({
+            object: this,
+            command: 'save',
+            successFunction:function(data){              
+              data.id = data._id;
+              console.log(`saved id: ${data.id}`);
+              cb(null, data);
+            },
+            cb: cb
+        });
       };
 
       //find Method
-
       this[className].find = function (){
-        commands.sendCommand(_, 'find').
-          done(function(data){
-            _.id = data._id;
-            console.log(`saved id: ${_.id}`);
-            resolve(data);
-          }).
-          fail(function(err){
-            reject(err.responseJSON);
+        var argumentsLenght = arguments.length;
+        var lastArguments = arguments[ argumentsLenght - 1 ];
+
+        if ( typeof lastArguments === 'function' ){
+          console.log(`finding ${arguments}`);
+
+          commands.sendCommand({
+              object: this[className],
+              command: 'find',
+              cb: lastArguments
           });
-      }
+        }
+      };
 
       //this[className].prototype.findOne =
       //this[className].prototype.findBy =

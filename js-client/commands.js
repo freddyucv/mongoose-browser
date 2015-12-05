@@ -1,5 +1,12 @@
 commands = {
-  sendCommands: function(object, commands){
+  /*object, commands, successFunction, errorFunction, cb*/
+  sendCommands: function(opts){
+    var object = opts.object;
+    var commands = opts.commands;
+    var successFunction = opts.successFunction;
+    var errorFunction = opts.errorFunction;
+    var cb = opts.cb;
+
     var data = {};
     data.model = object.className;
     data.object = object.doc._doc;
@@ -7,17 +14,34 @@ commands = {
     delete data.object._id;
     data.commands = commands;
 
-    return $.ajax({
+    $.ajax({
       url: 'sendCommand',
-      type: "POST",
+      type: 'POST',
       data: JSON.stringify(data),
-      contentType: "application/json; charset=utf-8",
-      dataType: "json"
-    });
+      contentType: 'application/json; charset=utf-8',
+      dataType: 'json'
+    }).
+      then(function(data){
+        if (successFunction){
+          successFunction(data);
+        }else{
+          cb(data);
+        }
+      },
+      function(err){
+        if (errorFunction){
+          errorFunction(err);
+        }else{
+          cb(err);
+        }
+      });
   },
 
-  sendCommand: function(object, command, parameters){
-    return this.sendCommands(object, [ {command: command, parameters: parameters} ]);
+  /*object, command, parameters,uccessFunction, errorFunction, cb*/
+  sendCommand: function(opts){
+    var command = opts.command;
+    opts.commands =  [ {command: command, parameters: opts.parameters} ];
+    return this.sendCommands(opts );
   }
 
-}
+};

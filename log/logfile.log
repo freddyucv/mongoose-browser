@@ -4186,3 +4186,1353 @@
 {"level":"info","message":"database models created","timestamp":"2015-12-05T01:15:33.122Z"}
 {"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T01:15:33.123Z"}
 {"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T01:15:33.123Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:03:10.683Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:03:10.687Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:03:10.687Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:03:10.687Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:03:10.711Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:03:10.918Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:03:10.919Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:03:10.920Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:03:55.201Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:03:55.206Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:03:55.206Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:03:55.206Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:03:55.230Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:03:55.344Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:03:55.345Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:03:55.345Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:03:57.847Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:03:57.851Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:03:57.851Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:03:57.852Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:03:57.877Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:03:57.945Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:03:57.946Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:03:57.946Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:04:10.979Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:04:10.983Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:04:10.983Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:04:10.984Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:04:11.007Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:04:11.121Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:04:11.122Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:04:11.122Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:04:14.918Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:04:14.922Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:04:14.922Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:04:14.922Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:04:14.945Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:04:15.015Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:04:15.016Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:04:15.016Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:04:26.009Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:04:26.013Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:04:26.014Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:04:26.014Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:04:26.038Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:04:26.145Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:04:26.146Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:04:26.146Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:04:45.492Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:04:45.497Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:04:45.497Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:04:45.497Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:04:45.523Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:04:45.728Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:04:45.729Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:04:45.729Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:04:51.002Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:04:51.008Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:04:51.009Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:04:51.009Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:04:51.037Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:04:51.109Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:04:51.110Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:04:51.110Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:05:11.705Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:05:11.709Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:05:11.709Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:05:11.710Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:05:11.733Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:05:11.830Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:05:11.831Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:05:11.831Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:05:14.967Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:05:14.971Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:05:14.972Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:05:14.972Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:05:14.996Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:05:15.063Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:05:15.064Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:05:15.065Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:05:18.332Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:05:18.336Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:05:18.338Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:05:18.338Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:05:18.367Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:05:18.467Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:05:18.468Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:05:18.468Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:05:41.191Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:05:41.195Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:05:41.195Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:05:41.195Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:05:41.218Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:05:41.335Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:05:41.336Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:05:41.336Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:05:57.872Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:05:57.876Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:05:57.876Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:05:57.877Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:05:57.900Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:05:58.005Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:05:58.006Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:05:58.007Z"}
+{"level":"info","message":"execute \"save\" in { duration: 130,\n  name: 'cancion 1',\n  _id: 5662468b0e9716d5160bdf7b }","timestamp":"2015-12-05T02:06:03.972Z"}
+{"level":"info","message":"execute \"save\" in { duration: 130, name: 'cancion', _id: 5662468c0e9716d5160bdf7c }","timestamp":"2015-12-05T02:06:04.007Z"}
+{"level":"info","message":"execute \"save\" in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662468c0e9716d5160bdf7d }","timestamp":"2015-12-05T02:06:04.027Z"}
+{"level":"info","message":"execute \"save\" in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662468c0e9716d5160bdf7e }","timestamp":"2015-12-05T02:06:04.044Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662468c0e9716d5160bdf7f,\n  songs: [ 5662468c853a9c00001af75a ] }","timestamp":"2015-12-05T02:06:04.092Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662468c0e9716d5160bdf80,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.115Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 23,\n  _id: 5662468c0e9716d5160bdf81,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.142Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 5662468c0e9716d5160bdf82,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.162Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 5662468c0e9716d5160bdf83,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.180Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 5662468c0e9716d5160bdf84,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.202Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 5662468c0e9716d5160bdf85,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.219Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662468c0e9716d5160bdf86,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.241Z"}
+{"level":"info","message":"execute \"save\" in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662468c0e9716d5160bdf87,\n  songs: [] }","timestamp":"2015-12-05T02:06:04.259Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:07:06.398Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:07:06.402Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:07:06.403Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:07:06.403Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:07:06.427Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:07:06.586Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:07:06.586Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:07:06.587Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:07:29.381Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:07:29.385Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:07:29.386Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:07:29.386Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:07:29.410Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:07:29.521Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:07:29.522Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:07:29.523Z"}
+{"level":"info","message":"execute \"save\" in { duration: 130,\n  name: 'cancion 1',\n  _id: 566246e58325063f17e70431 }","timestamp":"2015-12-05T02:07:33.581Z"}
+{"level":"info","message":"execute \"save\" in { duration: 130, name: 'cancion', _id: 566246e58325063f17e70432 }","timestamp":"2015-12-05T02:07:33.608Z"}
+{"level":"info","message":"execute \"save\" in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 566246e58325063f17e70433 }","timestamp":"2015-12-05T02:07:33.627Z"}
+{"level":"info","message":"execute \"save\" in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 566246e58325063f17e70434 }","timestamp":"2015-12-05T02:07:33.649Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566246e58325063f17e70435,\n  songs: [ 566246e5cc529e00008bf124 ] }","timestamp":"2015-12-05T02:07:33.676Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566246e58325063f17e70436,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.698Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 23,\n  _id: 566246e58325063f17e70437,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.723Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 566246e58325063f17e70438,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.745Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 566246e58325063f17e70439,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.762Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 566246e58325063f17e7043a,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.781Z"}
+{"level":"info","message":"execute \"save\" in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 566246e58325063f17e7043b,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.793Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566246e58325063f17e7043c,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.811Z"}
+{"level":"info","message":"execute \"save\" in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566246e58325063f17e7043d,\n  songs: [] }","timestamp":"2015-12-05T02:07:33.833Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:09:51.630Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:09:51.634Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:09:51.635Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:09:51.635Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:09:51.659Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:09:52.314Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:09:52.314Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:09:52.315Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566247777d13ef9d17038024,\n  songs: [ 566247766ce4b900003ba8ec ] }","timestamp":"2015-12-05T02:09:59.024Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:10:47.525Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:10:47.530Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:10:47.530Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:10:47.530Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:10:47.554Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:10:47.682Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:10:47.683Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:10:47.683Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:11:11.288Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:11:11.293Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:11:11.293Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:11:11.293Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:11:11.322Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:11:11.443Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:11:11.444Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:11:11.444Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:11:12.545Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:11:12.549Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:11:12.549Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:11:12.549Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:11:12.573Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:11:12.635Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:11:12.636Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:11:12.636Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:11:14.746Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:11:14.750Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:11:14.750Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:11:14.751Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:11:14.774Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:11:14.838Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:11:14.839Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:11:14.839Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:11:22.507Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:11:22.511Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:11:22.511Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:11:22.512Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:11:22.535Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:11:22.602Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:11:22.603Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:11:22.604Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:11:23.894Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:11:23.898Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:11:23.899Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:11:23.899Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:11:23.922Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:11:24.060Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:11:24.061Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:11:24.061Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:11:29.268Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:11:29.271Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:11:29.272Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:11:29.272Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:11:29.295Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:11:29.432Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:11:29.432Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:11:29.433Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:12:31.105Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:12:31.109Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:12:31.109Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:12:31.109Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:12:31.132Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:12:31.246Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:12:31.247Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:12:31.247Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:15:39.714Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:15:39.719Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:15:39.720Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:15:39.720Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:15:39.744Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:15:39.912Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:15:39.914Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:15:39.914Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566248d2297fdbde18285caf,\n  songs: [ 566248d2c636c9000077c448 ] }","timestamp":"2015-12-05T02:15:46.161Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:17:27.599Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:17:27.603Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:17:27.604Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:17:27.604Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:17:27.627Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:17:27.784Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:17:27.785Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:17:27.785Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:17:32.586Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:17:32.590Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:17:32.591Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:17:32.591Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:17:32.614Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:17:32.661Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:17:32.662Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:17:32.697Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:17:38.776Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:17:38.781Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:17:38.781Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:17:38.781Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:17:38.804Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:17:38.907Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:17:38.908Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:17:38.943Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:17:43.551Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:17:43.554Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:17:43.555Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:17:43.555Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:17:43.580Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:17:43.649Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:17:43.650Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:17:43.650Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:17:53.750Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:17:53.754Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:17:53.754Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:17:53.754Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:17:53.778Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:17:53.899Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:17:53.900Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:17:53.900Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:17:58.301Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:17:58.306Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:17:58.306Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:17:58.306Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:17:58.331Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:17:58.404Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:17:58.405Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:17:58.405Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:18:41.713Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:18:41.717Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:18:41.718Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:18:41.718Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:18:41.753Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:18:41.875Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:18:41.876Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:18:41.877Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:18:59.615Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:18:59.619Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:18:59.620Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:18:59.620Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:18:59.644Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:18:59.788Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:18:59.789Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:18:59.790Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:19:19.417Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:19:19.421Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:19:19.422Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:19:19.422Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:19:19.447Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:19:19.546Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:19:19.547Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:19:19.547Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:19:45.754Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:19:45.758Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:19:45.758Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:19:45.758Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:19:45.782Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:19:45.897Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:19:45.897Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:19:45.898Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:19:50.347Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:19:50.351Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:19:50.352Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:19:50.352Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:19:50.376Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:19:50.451Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:19:50.451Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:19:50.452Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:20:17.473Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:20:17.477Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:20:17.477Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:20:17.477Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:20:17.501Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:20:17.614Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:20:17.615Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:20:17.616Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:20:19.162Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:20:19.166Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:20:19.167Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:20:19.167Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:20:19.191Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:20:19.260Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:20:19.260Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:20:19.261Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:20:38.016Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:20:38.020Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:20:38.021Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:20:38.021Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:20:38.045Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:20:38.251Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:20:38.252Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:20:38.283Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:21:01.906Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:21:01.910Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:21:01.911Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:21:01.911Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:21:01.935Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:21:02.049Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:21:02.050Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:21:02.050Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:21:18.362Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:21:18.365Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:21:18.366Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:21:18.366Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:21:18.390Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:21:18.496Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:21:18.497Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:21:18.498Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:21:51.665Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:21:51.669Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:21:51.670Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:21:51.670Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:21:51.693Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:21:51.817Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:21:51.817Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:21:51.818Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:21:55.498Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:21:55.503Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:21:55.504Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:21:55.504Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:21:55.528Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:21:55.590Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:21:55.591Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:21:55.591Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:22:23.363Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:22:23.367Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:22:23.367Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:22:23.367Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:22:23.390Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:22:23.541Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:22:23.542Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:22:23.543Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:23:32.400Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:23:32.403Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:23:32.404Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:23:32.404Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:23:32.428Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:23:32.539Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:23:32.539Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:23:32.540Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:24:02.095Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:24:02.100Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:24:02.100Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:24:02.100Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:24:02.124Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:24:02.287Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:24:02.288Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:24:02.288Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:24:32.647Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:24:32.651Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:24:32.652Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:24:32.652Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:24:32.675Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:24:32.801Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:24:32.802Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:24:32.803Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:24:36.411Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:24:36.416Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:24:36.416Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:24:36.416Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:24:36.440Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:24:36.510Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:24:36.510Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:24:36.511Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:24:41.539Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:24:41.542Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:24:41.543Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:24:41.543Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:24:41.567Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:24:41.708Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:24:41.708Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:24:41.709Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:25:14.112Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:25:14.117Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:25:14.117Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:25:14.117Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:25:14.140Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:25:14.239Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:25:14.239Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:25:14.240Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:25:18.945Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:25:18.950Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:25:18.950Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:25:18.951Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:25:18.974Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:25:19.048Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:25:19.049Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:25:19.050Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:26:05.015Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:26:05.019Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:26:05.020Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:26:05.020Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:26:05.053Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:26:05.169Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:26:05.169Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:26:05.170Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:26:38.140Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:26:38.144Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:26:38.145Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:26:38.145Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:26:38.169Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:26:38.278Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:26:38.279Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:26:38.279Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:26:46.948Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:26:46.953Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:26:46.953Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:26:46.953Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:26:46.978Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:26:47.091Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:26:47.091Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:26:47.092Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:27:28.268Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:27:28.272Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:27:28.272Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:27:28.273Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:27:28.296Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:27:28.474Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:27:28.475Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:27:28.475Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:27:36.155Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:27:36.159Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:27:36.160Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:27:36.160Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:27:36.188Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:27:36.309Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:27:36.310Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:27:36.311Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:27:41.380Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:27:41.384Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:27:41.385Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:27:41.385Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:27:41.408Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:27:41.474Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:27:41.475Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:27:41.475Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624ba3590dfafc1c3ad4f0,\n  songs: [ 56624ba35babd9000054f25a ] }","timestamp":"2015-12-05T02:27:47.267Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:33:52.301Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:33:52.305Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:33:52.305Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:33:52.305Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:33:52.329Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:33:52.497Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:33:52.497Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:33:52.498Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:33:57.826Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:33:57.830Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:33:57.831Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:33:57.831Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:33:57.854Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:33:57.918Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:33:57.919Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:33:57.919Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624d1c053d89f21dbb5c69,\n  songs: [ 56624d1ccd23540000ef9145 ] }","timestamp":"2015-12-05T02:34:04.208Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:34:23.558Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:34:23.562Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:34:23.563Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:34:23.563Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:34:23.586Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:34:23.706Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:34:23.707Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:34:23.708Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:35:18.478Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:35:18.482Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:35:18.483Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:35:18.483Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:35:18.507Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:35:18.617Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:35:18.618Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:35:18.619Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:35:20.609Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:35:20.613Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:35:20.614Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:35:20.614Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:35:20.637Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:35:20.720Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:35:20.721Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:35:20.722Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:35:56.697Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:35:56.700Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:35:56.701Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:35:56.701Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:35:56.726Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:35:56.891Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:35:56.891Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:35:56.892Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624d934602756c1ed9538a,\n  songs: [ 56624d9364ea41000089a2ae ] }","timestamp":"2015-12-05T02:36:03.839Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:36:51.298Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:36:51.303Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:36:51.303Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:36:51.303Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:36:51.329Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:36:51.487Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:36:51.488Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:36:51.489Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:36:55.810Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:36:55.814Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:36:55.814Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:36:55.815Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:36:55.838Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:36:55.902Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:36:55.903Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:36:55.903Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624dcc43ac12c01e3b2ece,\n  songs: [ 56624dccc1ad0a00001fa472 ] }","timestamp":"2015-12-05T02:37:00.743Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:38:05.048Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:38:05.052Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:38:05.052Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:38:05.052Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:38:05.075Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:38:05.269Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:38:05.270Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:38:05.270Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:38:06.953Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:38:06.957Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:38:06.958Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:38:06.958Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:38:06.981Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:38:07.046Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:38:07.046Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:38:07.047Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:38:09.750Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:38:09.754Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:38:09.755Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:38:09.755Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:38:09.778Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:38:09.845Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:38:09.846Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:38:09.846Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624e1882f71cf81e2460e8,\n  songs: [ 56624e18af09780000385d23 ] }","timestamp":"2015-12-05T02:38:16.815Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:38:35.191Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:38:35.195Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:38:35.196Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:38:35.196Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:38:35.219Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:38:35.312Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:38:35.313Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:38:35.313Z"}
+{"level":"info","message":"execute \"save\" in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624e32e88d35111fd6d265,\n  songs: [ 56624e311fedb3000025535e ] }","timestamp":"2015-12-05T02:38:42.015Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:39:07.252Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:39:07.256Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:39:07.257Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:39:07.257Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:39:07.281Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:39:07.423Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:39:07.424Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:39:07.424Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:39:45.933Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:39:45.936Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:39:45.937Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:39:45.937Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:39:45.960Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:39:46.170Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:39:46.170Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:39:46.171Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:39:50.286Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:39:50.292Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:39:50.292Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:39:50.292Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:39:50.321Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:39:50.429Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:39:50.429Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:39:50.430Z"}
+{"level":"info","message":"execute [\"save\"] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624e7a40a1907a1f66b3a5,\n  songs: [ 56624e7a1e8adf0000de1504 ] }","timestamp":"2015-12-05T02:39:54.705Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:41:23.480Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:41:23.484Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:41:23.485Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:41:23.485Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:41:23.509Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:41:23.649Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:41:23.650Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:41:23.650Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:41:59.158Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:41:59.162Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:41:59.163Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:41:59.163Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:41:59.187Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:41:59.300Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:41:59.301Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:41:59.302Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:42:13.664Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:42:13.668Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:42:13.669Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:42:13.669Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:42:13.693Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:42:13.817Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:42:13.817Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:42:13.818Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:42:18.587Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:42:18.591Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:42:18.592Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:42:18.592Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:42:18.615Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:42:18.686Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:42:18.686Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:42:18.687Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:42:26.412Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:42:26.416Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:42:26.417Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:42:26.417Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:42:26.440Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:42:26.550Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:42:26.550Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:42:26.551Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:42:36.580Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:42:36.585Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:42:36.585Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:42:36.585Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:42:36.609Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:42:36.730Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:42:36.731Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:42:36.731Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:42:43.173Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:42:43.177Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:42:43.178Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:42:43.178Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:42:43.201Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:42:43.306Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:42:43.306Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:42:43.307Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:43:02.965Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:43:02.970Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:43:02.971Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:43:02.971Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:43:03.001Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:43:03.162Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:43:03.163Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:43:03.163Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:43:07.806Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:43:07.810Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:43:07.810Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:43:07.810Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:43:07.834Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:43:07.903Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:43:07.903Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:43:07.904Z"}
+{"level":"info","message":"execute [{}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624f41d8cea4582058733a,\n  songs: [ 56624f417feffe0000047b18 ] }","timestamp":"2015-12-05T02:43:13.666Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:43:46.649Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:43:46.653Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:43:46.654Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:43:46.654Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:43:46.678Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:43:46.795Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:43:46.796Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:43:46.796Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:43:49.251Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:43:49.255Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:43:49.256Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:43:49.256Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:43:49.281Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:43:49.384Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:43:49.385Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:43:49.385Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:43:53.160Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:43:53.165Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:43:53.166Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:43:53.166Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:43:53.191Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:43:53.336Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:43:53.337Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:43:53.337Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56624f712969f3c2207e6eb2,\n  songs: [ 56624f71511625000025ce9b ] }","timestamp":"2015-12-05T02:44:01.201Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:09.879Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:09.883Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:09.884Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:09.884Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:09.908Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:10.113Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:10.114Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:10.114Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:12.471Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:12.475Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:12.475Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:12.475Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:12.499Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:12.603Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:12.604Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:12.604Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:24.604Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:24.608Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:24.608Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:24.608Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:24.631Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:29.741Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:29.742Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:29.742Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:35.111Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:35.116Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:35.116Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:35.117Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:35.146Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:35.213Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:35.214Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:35.214Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:38.232Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:38.237Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:38.237Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:38.237Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:38.261Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:38.378Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:38.378Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:38.379Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:48.566Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:48.570Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:48.571Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:48.571Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:48.599Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:48.695Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:48.696Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:48.696Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:45:58.788Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:45:58.792Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:45:58.792Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:45:58.792Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:45:58.815Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:45:58.951Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:45:58.952Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:45:58.952Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:00.487Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:00.491Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:00.492Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:00.492Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:00.516Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:00.574Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:00.575Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:00.576Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:05.771Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:05.775Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:05.776Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:05.776Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:05.799Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:05.912Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:05.913Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:05.914Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:12.356Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:12.360Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:12.360Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:12.360Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:12.383Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:12.511Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:12.512Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:12.512Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:20.495Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:20.499Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:20.500Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:20.500Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:20.524Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:20.633Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:20.634Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:20.635Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:24.796Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:24.800Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:24.801Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:24.801Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:24.826Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:24.893Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:24.894Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:24.894Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:30.394Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:30.399Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:30.399Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:30.399Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:30.424Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:30.550Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:30.551Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:30.551Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:33.938Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:33.942Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:33.942Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:33.942Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:33.966Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:34.048Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:34.049Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:34.050Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:38.295Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:38.299Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:38.300Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:38.300Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:38.324Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:38.460Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:38.461Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:38.462Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:39.283Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:39.287Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:39.288Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:39.288Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:39.312Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:39.379Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:39.380Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:39.381Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:46:44.222Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:46:44.226Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:46:44.227Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:46:44.227Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:46:44.251Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:46:44.407Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:46:44.408Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:46:44.408Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 56625017e2db41f2216c3338 }","timestamp":"2015-12-05T02:46:47.467Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 56625021e2db41f2216c3339 }","timestamp":"2015-12-05T02:46:57.438Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 56625027e2db41f2216c333a }","timestamp":"2015-12-05T02:47:03.338Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 56625031e2db41f2216c333b }","timestamp":"2015-12-05T02:47:13.340Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662503be2db41f2216c333c }","timestamp":"2015-12-05T02:47:23.354Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 56625045e2db41f2216c333d }","timestamp":"2015-12-05T02:47:33.357Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:47:33.366Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625045e2db41f2216c333e,\n  songs: [ 56625045b5bfb500006bcbaf ] }","timestamp":"2015-12-05T02:47:33.389Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662504fe2db41f2216c333f,\n  songs: [] }","timestamp":"2015-12-05T02:47:43.392Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 56625059e2db41f2216c3340,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.405Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.407Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 56625059e2db41f2216c3341,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.425Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.430Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 56625059e2db41f2216c3342,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.449Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.451Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 56625059e2db41f2216c3343,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.467Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.473Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 56625059e2db41f2216c3344,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.491Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.493Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625059e2db41f2216c3345,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.509Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.511Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625059e2db41f2216c3346,\n  songs: [] }","timestamp":"2015-12-05T02:47:53.530Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:47:53.533Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:48:38.374Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:48:38.378Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:48:38.378Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:48:38.379Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:48:38.402Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:48:38.554Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:48:38.555Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:48:38.555Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:48:39.765Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:48:39.769Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:48:39.770Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:48:39.770Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:48:39.793Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:48:39.859Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:48:39.860Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:48:39.860Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:48:50.904Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:48:50.908Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:48:50.909Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:48:50.909Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:48:50.934Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:48:51.130Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:48:51.131Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:48:51.131Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:48:57.520Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:48:57.527Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:48:57.529Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:48:57.529Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:48:57.558Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:48:57.686Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:48:57.687Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:48:57.688Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:49:01.815Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:49:01.819Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:49:01.819Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:49:01.819Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:49:01.842Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:49:01.908Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:49:01.909Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:49:01.909Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:49:06.727Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:49:06.730Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:49:06.731Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:49:06.731Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:49:06.754Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:49:06.869Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:49:06.870Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:49:06.870Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 566250a805b9409f229bdb74 }","timestamp":"2015-12-05T02:49:12.347Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 566250a805b9409f229bdb75 }","timestamp":"2015-12-05T02:49:12.466Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 566250ad05b9409f229bdb76 }","timestamp":"2015-12-05T02:49:17.622Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 566250ad05b9409f229bdb77 }","timestamp":"2015-12-05T02:49:17.732Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:49:17.737Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566250ad05b9409f229bdb78,\n  songs: [ 566250adee8f02000053c1ef ] }","timestamp":"2015-12-05T02:49:17.756Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566250ae05b9409f229bdb79,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.091Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 566250ae05b9409f229bdb7a,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.196Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.199Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 566250ae05b9409f229bdb7b,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.215Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.217Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 566250ae05b9409f229bdb7c,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.230Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.232Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 566250ae05b9409f229bdb7d,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.245Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.247Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 566250ae05b9409f229bdb7e,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.264Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.266Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566250ae05b9409f229bdb7f,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.278Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.280Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566250ae05b9409f229bdb80,\n  songs: [] }","timestamp":"2015-12-05T02:49:18.298Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:49:18.300Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:51:49.576Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:51:49.580Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:51:49.581Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:51:49.581Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:51:49.605Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:51:49.749Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:51:49.750Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:51:49.751Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:52:11.913Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:52:11.917Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:52:11.917Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:52:11.917Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:52:11.943Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:52:12.054Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:52:12.055Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:52:12.055Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:52:22.390Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:52:22.394Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:52:22.394Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:52:22.394Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:52:22.418Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:52:22.506Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:52:22.507Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:52:22.543Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 56625169664dcb6c23749a09 }","timestamp":"2015-12-05T02:52:25.835Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 5662516c664dcb6c23749a0a }","timestamp":"2015-12-05T02:52:28.662Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662516c664dcb6c23749a0b }","timestamp":"2015-12-05T02:52:28.764Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662516c664dcb6c23749a0c }","timestamp":"2015-12-05T02:52:28.862Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:52:28.866Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662516c664dcb6c23749a0d,\n  songs: [ 5662516c9a9bc10000bb3337 ] }","timestamp":"2015-12-05T02:52:28.889Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662516d664dcb6c23749a0e,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.049Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 5662516d664dcb6c23749a0f,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.142Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.145Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 5662516d664dcb6c23749a10,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.158Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.160Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 5662516d664dcb6c23749a11,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.178Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.181Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 5662516d664dcb6c23749a12,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.197Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.198Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 5662516d664dcb6c23749a13,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.216Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.217Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662516d664dcb6c23749a14,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.233Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.234Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662516d664dcb6c23749a15,\n  songs: [] }","timestamp":"2015-12-05T02:52:29.250Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:52:29.252Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:53:36.969Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:53:36.973Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:53:36.973Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:53:36.973Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:53:36.998Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:53:37.205Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:53:37.205Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:53:37.206Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:53:41.603Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:53:41.607Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:53:41.608Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:53:41.608Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:53:41.632Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:53:41.704Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:53:41.705Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:53:41.705Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 566251b819fa0fd623618ed9 }","timestamp":"2015-12-05T02:53:44.937Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 566251bb19fa0fd623618eda }","timestamp":"2015-12-05T02:53:47.273Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 566251bb19fa0fd623618edb }","timestamp":"2015-12-05T02:53:47.376Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 566251bb19fa0fd623618edc }","timestamp":"2015-12-05T02:53:47.466Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:53:47.471Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251bb19fa0fd623618edd,\n  songs: [ 566251bbd45c2300009572f6 ] }","timestamp":"2015-12-05T02:53:47.493Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251bc19fa0fd623618ede,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.261Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 566251bc19fa0fd623618edf,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.365Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.367Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 566251bc19fa0fd623618ee0,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.383Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.385Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 566251bc19fa0fd623618ee1,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.397Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.401Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 566251bc19fa0fd623618ee2,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.414Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.416Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 566251bc19fa0fd623618ee3,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.432Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.434Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251bc19fa0fd623618ee4,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.448Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.450Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251bc19fa0fd623618ee5,\n  songs: [] }","timestamp":"2015-12-05T02:53:48.466Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:53:48.468Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:54:01.275Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:54:01.281Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:54:01.281Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:54:01.282Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:54:01.313Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:54:01.419Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:54:01.420Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:54:01.420Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:54:07.265Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:54:07.269Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:54:07.270Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:54:07.270Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:54:07.293Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:54:07.411Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:54:07.412Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:54:07.412Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 566251d4b4a6d03924114e96 }","timestamp":"2015-12-05T02:54:12.697Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 566251d4b4a6d03924114e97 }","timestamp":"2015-12-05T02:54:12.816Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 566251d4b4a6d03924114e98 }","timestamp":"2015-12-05T02:54:12.914Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 566251d8b4a6d03924114e99 }","timestamp":"2015-12-05T02:54:16.113Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:54:16.118Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251d8b4a6d03924114e9a,\n  songs: [ 566251d8133cd40000b8f77f ] }","timestamp":"2015-12-05T02:54:16.136Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251d8b4a6d03924114e9b,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.241Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 566251d8b4a6d03924114e9c,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.338Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.341Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 566251d8b4a6d03924114e9d,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.359Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.361Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 566251d8b4a6d03924114e9e,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.374Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.377Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 566251d8b4a6d03924114e9f,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.392Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.393Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 566251d8b4a6d03924114ea0,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.406Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.408Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251d8b4a6d03924114ea1,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.420Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.421Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566251d8b4a6d03924114ea2,\n  songs: [] }","timestamp":"2015-12-05T02:54:16.436Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:54:16.438Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:55:09.072Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:55:09.076Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:55:09.076Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:55:09.077Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:55:09.100Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:55:09.277Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:55:09.279Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:55:09.318Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:55:14.074Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:55:14.079Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:55:14.079Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:55:14.080Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:55:14.105Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:55:14.173Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:55:14.174Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:55:14.174Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 56625217d5c0f0a72402f5a1 }","timestamp":"2015-12-05T02:55:19.109Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 56625217d5c0f0a72402f5a2 }","timestamp":"2015-12-05T02:55:19.225Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 56625217d5c0f0a72402f5a3 }","timestamp":"2015-12-05T02:55:19.323Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 56625217d5c0f0a72402f5a4 }","timestamp":"2015-12-05T02:55:19.415Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:55:19.421Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625217d5c0f0a72402f5a5,\n  songs: [ 56625217b750450000bb8c0c ] }","timestamp":"2015-12-05T02:55:19.440Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625217d5c0f0a72402f5a6,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.545Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 56625217d5c0f0a72402f5a7,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.642Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.645Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 56625217d5c0f0a72402f5a8,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.662Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.664Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 56625217d5c0f0a72402f5a9,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.679Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.683Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 56625217d5c0f0a72402f5aa,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.699Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.701Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 56625217d5c0f0a72402f5ab,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.714Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.715Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625217d5c0f0a72402f5ac,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.730Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.732Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625217d5c0f0a72402f5ad,\n  songs: [] }","timestamp":"2015-12-05T02:55:19.747Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:19.749Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:55:33.619Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:55:33.624Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:55:33.624Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:55:33.624Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:55:33.648Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:55:33.766Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:55:33.766Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:55:33.767Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:55:41.672Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:55:41.676Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:55:41.677Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:55:41.677Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:55:41.700Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:55:41.810Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:55:41.811Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:55:41.812Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 56625232bb6618f9249d4998 }","timestamp":"2015-12-05T02:55:46.530Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 56625238bb6618f9249d4999 }","timestamp":"2015-12-05T02:55:52.988Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 56625239bb6618f9249d499a }","timestamp":"2015-12-05T02:55:53.084Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 56625239bb6618f9249d499b }","timestamp":"2015-12-05T02:55:53.192Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T02:55:53.196Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625239bb6618f9249d499c,\n  songs: [ 566252393f7fb50000f4b482 ] }","timestamp":"2015-12-05T02:55:53.214Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625239bb6618f9249d499d,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.335Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 56625239bb6618f9249d499e,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.434Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.437Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 56625239bb6618f9249d499f,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.452Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.453Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 56625239bb6618f9249d49a0,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.466Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.469Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 56625239bb6618f9249d49a1,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.485Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.486Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 56625239bb6618f9249d49a2,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.506Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.508Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625239bb6618f9249d49a3,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.522Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.523Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 56625239bb6618f9249d49a4,\n  songs: [] }","timestamp":"2015-12-05T02:55:53.538Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T02:55:53.540Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:56:09.227Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:56:09.231Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:56:09.231Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:56:09.231Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:56:09.254Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:56:09.364Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:56:09.365Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:56:09.365Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:56:24.065Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:56:24.069Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:56:24.069Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:56:24.069Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:56:24.093Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:56:24.189Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:56:24.190Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:56:24.190Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T02:57:39.565Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T02:57:39.569Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T02:57:39.569Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T02:57:39.569Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T02:57:39.602Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T02:57:39.780Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T02:57:39.781Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T02:57:39.781Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:01:19.106Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:01:19.110Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:01:19.111Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:01:19.111Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:01:19.140Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:01:19.337Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:01:19.338Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:01:19.338Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:01:24.359Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:01:24.364Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:01:24.364Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:01:24.364Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:01:24.388Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:01:24.521Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:01:24.522Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:01:24.522Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 5662538984b47eaa25abdb41 }","timestamp":"2015-12-05T03:01:29.801Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 5662538984b47eaa25abdb42 }","timestamp":"2015-12-05T03:01:29.913Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662538a84b47eaa25abdb43 }","timestamp":"2015-12-05T03:01:30.015Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662538a84b47eaa25abdb44 }","timestamp":"2015-12-05T03:01:30.171Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T03:01:30.175Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662538a84b47eaa25abdb45,\n  songs: [ 5662538a025af70000f47583 ] }","timestamp":"2015-12-05T03:01:30.196Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662538a84b47eaa25abdb46,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.525Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 5662538a84b47eaa25abdb47,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.638Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.640Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 5662538a84b47eaa25abdb48,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.655Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.656Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 5662538a84b47eaa25abdb49,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.670Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.674Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 5662538a84b47eaa25abdb4a,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.688Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.689Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 5662538a84b47eaa25abdb4b,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.702Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.704Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662538a84b47eaa25abdb4c,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.716Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.718Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662538a84b47eaa25abdb4d,\n  songs: [] }","timestamp":"2015-12-05T03:01:30.734Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:01:30.735Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:01:58.228Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:01:58.232Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:01:58.232Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:01:58.232Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:01:58.255Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:01:58.363Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:01:58.364Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:01:58.364Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:02:15.097Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:02:15.102Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:02:15.103Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:02:15.103Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:02:15.127Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:02:15.236Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:02:15.236Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:02:15.237Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:02:25.887Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:02:25.891Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:02:25.891Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:02:25.892Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:02:25.915Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:02:26.049Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:02:26.050Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:02:26.050Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 566253c5073fc01e26f7e5e3 }","timestamp":"2015-12-05T03:02:29.401Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 566253c5073fc01e26f7e5e4 }","timestamp":"2015-12-05T03:02:29.536Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 566253c5073fc01e26f7e5e5 }","timestamp":"2015-12-05T03:02:29.638Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 566253c5073fc01e26f7e5e6 }","timestamp":"2015-12-05T03:02:29.768Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T03:02:29.776Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253c5073fc01e26f7e5e7,\n  songs: [ 566253c57468980000faf3d8 ] }","timestamp":"2015-12-05T03:02:29.795Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253c6073fc01e26f7e5e8,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.066Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 566253c6073fc01e26f7e5e9,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.184Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.187Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 566253c6073fc01e26f7e5ea,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.201Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.204Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 566253c6073fc01e26f7e5eb,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.219Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.222Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 566253c6073fc01e26f7e5ec,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.240Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.243Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 566253c6073fc01e26f7e5ed,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.257Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.259Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253c6073fc01e26f7e5ee,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.273Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.276Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253c6073fc01e26f7e5ef,\n  songs: [] }","timestamp":"2015-12-05T03:02:30.289Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:02:30.291Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:03:03.226Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:03:03.230Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:03:03.230Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:03:03.230Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:03:03.254Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:03:03.392Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:03:03.392Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:03:03.393Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:03:07.758Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:03:07.762Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:03:07.763Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:03:07.763Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:03:07.787Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:03:07.853Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:03:07.853Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:03:07.854Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 566253f0acc1c681262f8bb5 }","timestamp":"2015-12-05T03:03:12.705Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 566253f0acc1c681262f8bb6 }","timestamp":"2015-12-05T03:03:12.843Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 566253f0acc1c681262f8bb7 }","timestamp":"2015-12-05T03:03:12.961Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 566253f1acc1c681262f8bb8 }","timestamp":"2015-12-05T03:03:13.064Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T03:03:13.069Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253f1acc1c681262f8bb9,\n  songs: [ 566253f1f3986b0000f4e436 ] }","timestamp":"2015-12-05T03:03:13.091Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253f1acc1c681262f8bba,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.192Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 566253f1acc1c681262f8bbb,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.297Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.300Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 566253f1acc1c681262f8bbc,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.315Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.318Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 566253f1acc1c681262f8bbd,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.333Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.334Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 566253f1acc1c681262f8bbe,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.351Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.352Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 566253f1acc1c681262f8bbf,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.365Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.366Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253f1acc1c681262f8bc0,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.384Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.387Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 566253f1acc1c681262f8bc1,\n  songs: [] }","timestamp":"2015-12-05T03:03:13.405Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:03:13.408Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:03:36.904Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:03:36.908Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:03:36.909Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:03:36.909Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:03:36.932Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:03:37.039Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:03:37.040Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:03:37.040Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:03:45.586Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:03:45.590Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:03:45.591Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:03:45.591Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:03:45.614Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:03:45.714Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:03:45.715Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:03:45.716Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:03:56.973Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:03:56.977Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:03:56.977Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:03:56.977Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:03:57.002Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:03:57.115Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:03:57.116Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:03:57.116Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:04:09.600Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:04:09.604Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:04:09.605Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:04:09.605Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:04:09.628Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:04:09.729Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:04:09.730Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:04:09.730Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:04:24.228Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:04:24.233Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:04:24.233Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:04:24.233Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:04:24.257Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:04:24.381Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:04:24.382Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:04:24.382Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130,\n  name: 'cancion 1',\n  _id: 5662543bb3903f0e27e3e19d }","timestamp":"2015-12-05T03:04:27.479Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { duration: 130, name: 'cancion', _id: 5662543bb3903f0e27e3e19e }","timestamp":"2015-12-05T03:04:27.764Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'Jazz',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662543bb3903f0e27e3e19f }","timestamp":"2015-12-05T03:04:27.865Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { genre: 'not valid',\n  duration: 130,\n  name: 'cancion',\n  _id: 5662543bb3903f0e27e3e1a0 }","timestamp":"2015-12-05T03:04:27.961Z"}
+{"level":"error","message":"ERROR: Song validation failed","timestamp":"2015-12-05T03:04:27.966Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662543bb3903f0e27e3e1a1,\n  songs: [ 5662543bf967c20000dc0da9 ] }","timestamp":"2015-12-05T03:04:27.989Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a@a.com',\n  phone: '201-555-0123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662543cb3903f0e27e3e1a2,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.330Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 23,\n  _id: 5662543cb3903f0e27e3e1a3,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.429Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.432Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 17,\n  name: 'artist',\n  _id: 5662543cb3903f0e27e3e1a4,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.447Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.449Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 201,\n  name: 'artist',\n  _id: 5662543cb3903f0e27e3e1a5,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.464Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.468Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'a',\n  _id: 5662543cb3903f0e27e3e1a6,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.484Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.486Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { nationality: 'Venezolano',\n  age: 21,\n  name: 'qwertyuioplkjhgfdsazx',\n  _id: 5662543cb3903f0e27e3e1a7,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.504Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.507Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { email: 'a',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662543cb3903f0e27e3e1a8,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.519Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.521Z"}
+{"level":"info","message":"execute [{\"command\":\"save\"}] in { phone: '123-123-123',\n  nationality: 'Venezolano',\n  age: 21,\n  name: 'artist',\n  _id: 5662543cb3903f0e27e3e1a9,\n  songs: [] }","timestamp":"2015-12-05T03:04:28.536Z"}
+{"level":"error","message":"ERROR: Artist validation failed","timestamp":"2015-12-05T03:04:28.539Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:04:48.488Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:04:48.492Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:04:48.493Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:04:48.493Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:04:48.520Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:04:48.774Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:04:48.775Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:04:48.775Z"}
+{"level":"info","message":"connected to: mongodb://freddyucv:leones2009@ds051923.mongolab.com:51923/musci_example","timestamp":"2015-12-05T03:05:03.246Z"}
+{"level":"info","message":"creating models for the browser","timestamp":"2015-12-05T03:05:03.250Z"}
+{"level":"info","message":"the models for the browser was created","timestamp":"2015-12-05T03:05:03.251Z"}
+{"level":"info","message":"Starting mongoose client...","timestamp":"2015-12-05T03:05:03.251Z"}
+{"level":"info","message":"Started mongoose client...","timestamp":"2015-12-05T03:05:03.274Z"}
+{"level":"info","message":"database models created","timestamp":"2015-12-05T03:05:03.367Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/artist_model.js","timestamp":"2015-12-05T03:05:03.368Z"}
+{"level":"info","message":"processing /home/freddy/Proyectos/Framework/dist/models/song_model.js","timestamp":"2015-12-05T03:05:03.368Z"}

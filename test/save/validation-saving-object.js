@@ -14,10 +14,10 @@ describe('Validation: ', function() {
 
       artist.save(function(err){
 
-        if (err){
-            return;
+        if (!err){
+            done();
         }
-        done();
+
       });
   });
 
@@ -28,7 +28,7 @@ describe('Validation: ', function() {
       artist.nationality = 'Venezolano';
 
       artist.save(function(e){
-        var errorMessage = e.errors.name.message;
+        var errorMessage = e.responseJSON.errors.name.message;
         assert.equal( errorMessage, 'name is required!');
         done();
       });
@@ -42,7 +42,7 @@ describe('Validation: ', function() {
       artist.nationality = 'Venezolano';
 
       artist.save(function(e){
-        var errorMessage = e.errors.age.message;
+        var errorMessage = e.responseJSON.errors.age.message;
         assert.equal( errorMessage, 'Path `age` (17) is less than minimum allowed value (18).');
         done();
       });
@@ -56,7 +56,7 @@ describe('Validation: ', function() {
       artist.nationality = 'Venezolano';
 
       artist.save(function(e){
-        var errorMessage = e.errors.age.message;
+        var errorMessage = e.responseJSON.errors.age.message;
         assert.equal( errorMessage, 'Path `age` (201) is more than maximum allowed value (200).');
         done();
       });
@@ -70,7 +70,7 @@ describe('Validation: ', function() {
       artist.nationality = 'Venezolano';
 
       artist.save(function(e){
-        var errorMessage = e.errors.name.message;
+        var errorMessage = e.responseJSON.errors.name.message;
         assert.equal( errorMessage, 'Path `name` (`a`) is shorter than the minimum allowed length (6).');
         done();
       });
@@ -84,7 +84,7 @@ describe('Validation: ', function() {
       artist.nationality = 'Venezolano';
 
       artist.save(function(e){
-        var errorMessage = e.errors.name.message;
+        var errorMessage = e.responseJSON.errors.name.message;
         assert.equal( errorMessage, 'Path `name` (`qwertyuioplkjhgfdsazx`) is longer than the maximum allowed length (20).');
         done();
       });
@@ -99,7 +99,7 @@ describe('Validation: ', function() {
       artist.email = 'a';
 
       artist.save(function(e){
-        var errorMessage = e.errors.email.message;
+        var errorMessage = e.responseJSON.errors.email.message;
         assert.equal( errorMessage, 'email invalid');
         done();
       });
@@ -114,7 +114,7 @@ describe('Validation: ', function() {
       artist.phone = '123-123-123';
 
       artist.save(function(e){
-        var errorMessage = e.errors.phone.message;
+        var errorMessage = e.responseJSON.errors.phone.message;
         assert.equal( errorMessage, '123-123-123 is not a valid phone number!');
         done();
       });

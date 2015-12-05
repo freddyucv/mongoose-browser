@@ -20,12 +20,10 @@ describe('Saving a complex object: ', function() {
       artist.songs.push(song);
 
       artist.save(function(err){
-        if (err) {
-          return;
+        console.log(err);
+        if (!err) {
+          done();
         }
-
-        console.log(artist.songs);
-        done();
       });
     });
 });
