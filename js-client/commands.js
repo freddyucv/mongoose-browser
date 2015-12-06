@@ -8,10 +8,15 @@ commands = {
     var cb = opts.cb;
 
     var data = {};
-    data.model = object.className;
-    data.object = object.doc._doc;
-    data.object.id = data.object._id.id;
-    delete data.object._id;
+
+    if ( object ){
+      data.model = object.className;
+      data.object = object.doc._doc;
+    }else{
+      data.model = opts.model;
+    }
+    //data.object.id = data.object._id.id;
+    //delete data.object._id;
     data.commands = commands;
 
     $.ajax({
@@ -21,11 +26,11 @@ commands = {
       contentType: 'application/json; charset=utf-8',
       dataType: 'json'
     }).
-      then(function(data){
+      then(function(data){        
         if (successFunction){
           successFunction(data);
         }else{
-          cb(data);
+          cb(null, data);
         }
       },
       function(err){

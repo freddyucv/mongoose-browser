@@ -17,6 +17,20 @@
       }
     }
 
+    function getParameters(args){
+      var parameters = [];
+      var i = 0;
+      while(args[i]){
+
+        if (Object.prototype.toString.call( args[i] ) !== '[object Function]'){
+          parameters.push(args[i]);
+        }
+
+        i++;
+      }
+      return parameters;
+    }
+
     var getterFunction = 'function defaultGetter{0}(){' +
       'return this.doc["{1}"];' +
     '}';
@@ -31,6 +45,23 @@
 
     function resolveTemplate(name, property, template){
       return template.replace('{0}', name).replace('{1}', property);
+    }
+
+    function callFindMethod(methodName, args){
+      var argumentsLenght = args.length;
+      var lastArguments = args[ argumentsLenght - 1 ];
+
+      if ( typeof lastArguments === 'function' ){
+        console.log(`${methodName} ${args}`);
+        var parameters = getParameters(args);
+
+        commands.sendCommand({
+            model: className,
+            command: methodName,
+            parameters: parameters,
+            cb: lastArguments
+        });
+      }
     }
 
     console.log('creating models...');
@@ -63,10 +94,11 @@
       this[className].prototype.save = function (cb){
 
         console.log(`saving ${this}`);
+
         commands.sendCommand({
             object: this,
             command: 'save',
-            successFunction:function(data){              
+            successFunction:function(data){
               data.id = data._id;
               console.log(`saved id: ${data.id}`);
               cb(null, data);
@@ -75,22 +107,18 @@
         });
       };
 
-      //find Method
-      this[className].find = function (){
-        var argumentsLenght = arguments.length;
-        var lastArguments = arguments[ argumentsLenght - 1 ];
-
-        if ( typeof lastArguments === 'function' ){
-          console.log(`finding ${arguments}`);
-
-          commands.sendCommand({
-              object: this[className],
-              command: 'find',
-              cb: lastArguments
-          });
-        }
+      //find Methods
+      this[ className ].find = function (){
+          callFindMethod('find', arguments);
       };
 
+      this[ className ].findOne = function (){
+          callFindMethod('findOne', arguments);
+      };
+
+      this[ className ].findById = function (){
+          callFindMethod('findById', arguments);
+      };
       //this[className].prototype.findOne =
       //this[className].prototype.findBy =
       //this[className].prototype.count =
