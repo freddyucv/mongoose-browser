@@ -26,7 +26,8 @@ commands = {
       contentType: 'application/json; charset=utf-8',
       dataType: 'json'
     }).
-      then(function(data){        
+      then(function(data){
+        console.log('data', data);
         if (successFunction){
           successFunction(data);
         }else{

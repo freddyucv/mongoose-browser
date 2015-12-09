@@ -28,6 +28,8 @@
 
         i++;
       }
+
+      console.log('parameters', JSON.stringify(parameters));
       return parameters;
     }
 
