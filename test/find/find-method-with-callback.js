@@ -35,4 +35,29 @@ describe('Finding object: ', function() {
         });
       });
     });
+
+    it('find method with fields', function(done) {
+      this.timeout(10000);
+      var song = new Song();
+      song.name = 'AAAAAAAA';
+      song.duration = 130;
+
+      song.save(function(){
+
+        Song.find( { }, 'name', function(err, docs){
+
+          if (!err){
+            assert.equal( true, Object.prototype.toString.call( docs ) === '[object Array]' );
+
+            for (var i = 0; i < docs.length; i++){
+              for(var propt in docs[ i ]){
+                assert.equal( true, propt === 'name' || propt === '_id');
+              }
+            }
+
+            done();
+          }
+        });
+      });
+    });
 });
