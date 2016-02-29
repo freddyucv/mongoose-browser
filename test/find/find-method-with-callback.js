@@ -21,7 +21,7 @@ describe('Finding object: ', function() {
 
       song.save(function(err, song){
         Song.find( { name: 'find method with querys' }, function(err, docs){
-
+          
           if (!err){
             assert.equal( true, Object.prototype.toString.call( docs ) === '[object Array]' );
             assert.equal( 1, docs.length );

@@ -1,4 +1,4 @@
-/*globals commands*/
+/*globals commands, mongoose,Query*/
 (
   function(){
     var models = require('models');
@@ -63,6 +63,8 @@
             parameters: parameters,
             cb: lastArguments
         });
+      }else{
+        return new Query();
       }
     }
 
@@ -111,27 +113,16 @@
 
       //find Methods
       this[ className ].find = function (){
-          callFindMethod('find', arguments);
+          return callFindMethod('find', arguments);
       };
 
       this[ className ].findOne = function (){
-          callFindMethod('findOne', arguments);
+        return callFindMethod('findOne', arguments);
       };
 
       this[ className ].findById = function (){
-          callFindMethod('findById', arguments);
+        return callFindMethod('findById', arguments);
       };
-      //this[className].prototype.findOne =
-      //this[className].prototype.findBy =
-      //this[className].prototype.count =
-      //this[className].prototype.remove =
-      //this[className].prototype.update =
-      //pre y post
-      //virtuals
-      //query
-      // Trabajar fuertemente las relaciones
-      //Probar guardando datos bytes
-      //Concurrencia
 
       console.log(`created model ${name}`);
     }
