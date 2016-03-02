@@ -2,13 +2,25 @@ var gulp = require('gulp');
 var nodemon = require('gulp-nodemon');
 //var watch = require('gulp-watch');
 var babel = require('gulp-babel');
+var minify = require('gulp-minify');
+var concat = require('gulp-concat');
 
 var clientFile = 'js-client/*.js';
-var serverFile = 'lib/*.js';
+var serverFile = ['lib/*/*.js', 'lib/*.js'];
 var testFile = 'test/**/*';
 
 gulp.task('dist', function() {
-  gulp.src( clientFile ).pipe(gulp.dest( 'dist/js-client' ));
+
+  gulp.src( 'package.json' ).pipe(gulp.dest( 'dist' ));
+
+  gulp.src( clientFile )
+      .pipe( minify() )
+      .pipe( concat('mongoose-browser.js') )
+      .pipe(gulp.dest( 'dist' ));
+
+  gulp.src( 'index.js' )
+      .pipe(babel())
+      .pipe(gulp.dest( 'dist' ));
 
   gulp.src( serverFile )
     .pipe(babel())
@@ -30,17 +42,3 @@ gulp.task('test', ['dist', 'test-dist'], function() {
 gulp.task('default', ['dist'], function() {
 });
 
-/*gulp.task('browserify', function() {
-    // Single entry point to browserify
-    gulp.src('./models/index.js')
-        .pipe(browserify({
-          shim: {
-            models: {
-                path: './models/index.js',
-                exports: 'models'
-            }
-          }
-         }))
-        .pipe(rename('bundle.js'))
-        .pipe(gulp.dest('./views'))
-});*/

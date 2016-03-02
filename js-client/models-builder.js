@@ -54,7 +54,7 @@
       var lastArguments = args[ argumentsLenght - 1 ];
 
       if ( typeof lastArguments === 'function' ){
-        console.log(`${methodName} ${args}`);
+        console.log(methodName + ' ' + args);
         var parameters = getParameters(args);
 
         commands.sendCommand({
@@ -71,7 +71,7 @@
     console.log('creating models...');
 
     for (var name in models) {
-      console.log(`creating model ${name}`);
+      console.log('creating model ', name);
       //Create Model
       var className = name.charAt(0).toUpperCase() + name.substring(1);
 
@@ -97,14 +97,14 @@
       //Save Method
       this[className].prototype.save = function (cb){
 
-        console.log(`saving ${this}`);
+        console.log('saving ' + this);
 
         commands.sendCommand({
             object: this,
             command: 'save',
             successFunction:function(data){
               data.id = data._id;
-              console.log(`saved id: ${data.id}`);
+              console.log('saved id: ', data.id);
               cb(null, data);
             },
             cb: cb
@@ -124,6 +124,6 @@
         return callFindMethod('findById', arguments);
       };
 
-      console.log(`created model ${name}`);
+      console.log('created model ' + name);
     }
 }());

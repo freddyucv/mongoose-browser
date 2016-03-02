@@ -10,3 +10,9 @@ browserify -r ./dist/models.js:models > dist/models-client.js
 
 
 browserify -r ./dist/models.js > dist/models-client.js
+
+
+
+##TO COMPILE
+
+* npm install

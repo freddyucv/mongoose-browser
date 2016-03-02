@@ -1,23 +1,24 @@
 {
-  "name": "Colegio",
+  "name": "mongoose-browser",
   "version": "0.1.0",
   "description": "",
-  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/server_test.js  ./node_modules/bunyan/bin/bunyan"
   },
   "devDependencies": {
     "browserify": "^12.0.1",
     "browserify-shim": "^3.8.11",
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.5",
     "gulp-nodemon": "^2.0.4",
     "gulp-rename": "^1.2.2",
-    "gulp-watch": "^4.3.5",
-    "jshint": "^2.8.0"
+    "gulp-watch": "^4.3.5"
   },
   "dependencies": {
     "browserify": "^12.0.1",
+    "bunyan": "^1.7.1",
     "chai": "^3.4.0",
     "koa": "^0.14.0",
     "koa-json-body": "^4.0.0",
@@ -25,10 +26,10 @@
     "koa-static": "^1.4.9",
     "list-directory-contents": "0.0.3",
     "memorystream": "^0.3.1",
+    "mkdirp": "^0.5.1",
     "mocha": "^2.3.3",
     "mongoose": "^4.1.8",
     "promise": "^7.0.4",
-    "stream": "0.0.2",
-    "winston": "^2.1.1"
+    "stream": "0.0.2"
   }
 }
