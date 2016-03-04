@@ -15,4 +15,5 @@ browserify -r ./dist/models.js > dist/models-client.js
 
 ##TO COMPILE
 
+*  sudo npm install -g bower
 * npm install

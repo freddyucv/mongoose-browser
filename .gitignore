@@ -4,5 +4,6 @@ dist
 .idea
 mongoose-browser-logs/
 npm-debug.log
+bower_components/
 
 

@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "test": "node test/server_test.js | ./node_modules/bunyan/bin/bunyan"
+    "test": "node test/server_test.js | ./node_modules/bunyan/bin/bunyan",
+    "preinstall": "bower install"
   },
   "devDependencies": {
     "browserify": "^12.0.1",
