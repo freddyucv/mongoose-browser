@@ -2,5 +2,7 @@ node_modules
 dist
 *.iml
 .idea
+mongoose-browser-logs/
+npm-debug.log
 
 
