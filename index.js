@@ -7,6 +7,7 @@ module.exports = function(opts){
   var ClientModelServer = require('./lib/client-models-server/client-models-server');
   var CustomTagServer = require('./lib/custom-tag-models/custom-tag-models');
   var logger = require('./lib/util/logger');
+  var serverStatic = require('koa-static');
 
   var crudController = new DefaultCrudController( modelsPath, mongodbUrl );
   var clientModelsServer = new ClientModelServer( modelsPath );
@@ -20,6 +21,7 @@ module.exports = function(opts){
   app.use(crudController.routes);
   app.use(clientModelsServer.routes);
   app.use(customTagServer.routes);
+  app.use( serverStatic( 'bower_components/' ));
 
   logger.info('Started mongoose client...');
 }

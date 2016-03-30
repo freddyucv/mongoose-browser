@@ -12,22 +12,34 @@ var artistSchema = new Schema({
                     required: '{PATH} is required!',
                     maxlength:20,
                     minlength:6,
-                    set: toLower },
-    age         : { type: Number, min: 18, max:200},
-    nationality : { type: String, enum: enums.COUNTRIES },
-    email: {type: String, match: [/^[_a-z0-9-]+(.[_a-z0-9-]+)*@[a-z0-9-]+(.[a-z0-9-]+)*(.[a-z]{2,4})$/,
-                                  'email invalid']},
+                    set: toLower,
+                    label: 'Nombre'},
+    age         : { type: Number,
+        min: 18,
+        max:200,
+        label: 'Edad'},
+    nationality : { type: String,
+        enum: enums.COUNTRIES,
+        label: 'Nacionalidad'
+    },
+    email: {type: String,
+        match: [/^[_a-z0-9-]+(.[_a-z0-9-]+)*@[a-z0-9-]+(.[a-z0-9-]+)*(.[a-z]{2,4})$/,
+                                  'email invalid'],
+        label: 'Correo'
+    },
     phone: { type: String,
       validate: {
         validator: function(v) {
           return /\d{3}-\d{3}-\d{4}/.test(v);
         },
         message: '{VALUE} is not a valid phone number!'
-      }
+      },
+      label: 'Telefono'
     },
-    songs       : [ { type: Schema.ObjectId, ref: 'Song' } ]
+    songs       : [ { type: Schema.ObjectId, ref: 'Song', label: 'Canciones' } ]
 });
 
+artistSchema.virtual('withAge').label = 'Nombre/Edad';
 artistSchema.virtual('withAge').get(function () {
   return this.name + ' ' + this.age;
 });

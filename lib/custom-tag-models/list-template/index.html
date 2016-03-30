@@ -1,0 +1,15 @@
+<script src="webcomponentsjs/webcomponents-lite.min.js"></script>
+<link rel="import" href="list-{{model.modelName}}.html">
+
+
+<list-{{model.modelName}}></list-{{model.modelName}}>
+
+<script>
+    var columns = [
+        {{#model.properties}}
+            "{{label}}",
+        {{/model.properties}}
+    ];
+
+    document.querySelector('list-{{model.modelName}}').columns = columns;
+</script>

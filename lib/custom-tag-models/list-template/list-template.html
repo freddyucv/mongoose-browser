@@ -1,0 +1,30 @@
+
+<link rel="import" href="polymer/polymer.html">
+
+<dom-module id="list-{{model.modelName}}">
+
+    <template>
+
+        <table>
+            <tr>
+                <template is="dom-repeat" items="[[columns]]">
+                    <th>[[item]]</th>
+                </template>
+            </tr>
+
+
+        </table>
+    </template>
+
+    <script>
+        Polymer({
+            is: "list-{{model.modelName}}",
+            properties: {
+                columns: Array
+            }
+        });
+    </script>
+
+</dom-module>
+
+
